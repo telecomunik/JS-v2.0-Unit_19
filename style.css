@@ -22,3 +22,7 @@ section {
 .hide {
     display: none;
 }
+
+.out-4, .ul-6 {
+    -webkit-user-select: none;
+}
